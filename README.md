@@ -1,4 +1,4 @@
-# ComputationalGeometry ENGLISH
+# Computational Geometry English
 Assignment of Computational Geometry class 2023, written in Greek. (Greek below)
 Code written in Python, the use of libaries was allowed.
 
@@ -8,10 +8,10 @@ Uses the following algorithms:
 - QuickHull 2D, 3D
 - KD-Tree creation
 - KD-Tree search
-- Geometrical search
+- Orthogonal search
 - Delaunay triangulation
 
-# ΥπολογιστικήΓεωμετρία Ελληνικά
+# Υπολογιστική Γεωμετρία Ελληνικά
 Εργασία μαθήματος Υπολογιστικής Γεωμετρίας, το 2023, γραμμένη στα Ελληνικά.
 Χρησιμοποιήθηκε η γλώσσα προγραμματισμού Python, με επιτρεπτή τη χρήση κατάλληλων βιβλιοθηκών.
 
