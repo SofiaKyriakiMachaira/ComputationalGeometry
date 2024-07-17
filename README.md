@@ -1,4 +1,4 @@
-# Computational Geometry English
+# Computational Geometry
 Assignment of Computational Geometry class 2023, written in Greek. (Greek below)
 Code written in Python, the use of libaries was allowed.
 
@@ -11,7 +11,7 @@ Uses the following algorithms:
 - Orthogonal search
 - Delaunay triangulation
 
-# Υπολογιστική Γεωμετρία Ελληνικά
+# Υπολογιστική Γεωμετρία
 Εργασία μαθήματος Υπολογιστικής Γεωμετρίας, το 2023, γραμμένη στα Ελληνικά.
 Χρησιμοποιήθηκε η γλώσσα προγραμματισμού Python, με επιτρεπτή τη χρήση κατάλληλων βιβλιοθηκών.
 
